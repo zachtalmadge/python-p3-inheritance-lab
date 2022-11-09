@@ -5,8 +5,6 @@ from user import User
 
 my_teacher = Teacher("My", "Teacher")
 
-my_teacher = Teacher("My", "Teacher")
-
 class TestTeacher:
     '''Class "Teacher" in teacher.py'''
 
